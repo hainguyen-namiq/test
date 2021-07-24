@@ -1,0 +1,184 @@
+Ấp Dân Thắng 1
+Đường Tuyến 5
+Phạm Văn Sáng
+Tuyến Ống Nước Sạch
+Ấp Dân Thắng 2
+Đường Tuyến 9
+Phan Văn Đối
+Vạn Hạnh 1
+Ấp Đình 2
+Giác Đạo
+Phan Văn Hớn
+Vạn Hạnh 3
+Ấp Đình 4
+Hà Nội
+Quang Trung
+Vạn Hạnh 4
+Ấp Đông
+Hàn Quốc
+2 Quốc Lộ 1A
+Vành đai 3
+Ấp Mỹ Hòa I
+Hậu Lân
+Quốc Lộ 22
+Võ Thị Hồi
+Ấp Nam Thới
+Hậu Lân - Bà Điểm
+Rạch Hóc Môn
+Võ Văn Bích
+Ấp Tam Đông
+Hồ Ngọc Cẩn
+Rỗng Bàng
+Xuân Thới 15
+Ấp Tây Bắc Lân
+Hương Lộ 60
+Song Hành
+Xuân Thới 2
+Ấp Thông Nhất 2 - Nhị Tân 1
+Hương Lộ 60B
+Song Hành Quốc Lộ 22
+Xuân Thới 23
+Ấp Tiền Lân
+Hương Lộ 80B
+Tam Đông
+Xuân Thới 3
+Bà Điểm
+Khu Phố 1-01
+Tân Hiệp
+Xuân Thới 5
+Bà Điểm 2
+Khu Phố 1-02
+Tân Hiệp 14
+Xuân Thới 6
+Bà Điểm 5
+Khu Phố 1-03
+Tân Hiệp 15
+Xuân Thới 7
+Bà Điểm 6
+Khu Phố 2-01
+Tân Hiệp 16
+Xuân Thới 8
+Bà Điểm 7
+Khu Phố 2-02
+Tân Hiệp 31
+Xuân Thới 9
+Bà Điểm 8
+Khu Phố 3-01
+Tân Hiệp 4
+Xuân Thới Đông 2
+Bà Triệu
+Lê Lai
+Tân Hiệp 6
+Xuân Thới Sơn 1
+Bùi Chu
+Lê Lợi
+Tân Hiệp 7
+Xuân Thới Sơn 16
+Bùi Công Trừng
+Lê Thị Hà
+Tân Xuân 1
+Xuân Thới Sơn 2
+Bùi Văn Ngữ
+Lê Văn Khương
+Tân Xuân 2
+Xuân Thới Sơn 20C
+Chu Mạnh Trinh
+Liên Ấp 1-4
+Tân Xuân 6
+Xuân Thới Sơn 21
+Đặng Công Bình
+Liên Ấp 3-7
+Thái Bình
+Xuân Thới Sơn 22
+Đặng Thúc Vịnh
+Liên Ấp 5-7
+Thành Ủy
+Xuân Thới Sơn 26
+Đặng Văn Mười
+Liên Ấp Nam Thới - Thới Tứ
+Thiên Quang
+Xuân Thới Sơn 27
+Đỗ Văn Dậy
+Liên Ấp Thới Tứ Trung Đông
+Thới Tam Thôn 3
+Xuân Thới Sơn 37
+Đồng Bà Canh
+Liên Ấp: 2-6-7
+Thới Tam Thôn 6
+Xuân Thới Sơn 38
+Đông Lân
+Liên Xã Tân Hiệp
+Thới Tây
+Xuân Thới Sơn 4
+Đồng Tâm
+Liên Xã Tân Thới Nhì - Thị Trấn
+Thới Tây - Tân Hiệp
+Xuân Thới Sơn 5
+Đông Thạnh 2
+Liên Xã Thị Trấn - Tân Hiệp
+Thới Tứ
+Xuân Thới Sơn 6
+Đông Thạnh 2-5
+Liên Xã Thị Trấn - Thới Tam Thôn
+Thương Mại 1
+Xuân Thới Sơn 8
+Đông Thạnh 3
+Liên Xã Thới Tam Thôn - Đông Thạnh
+Thương Mại 3
+Xuân Thới Sơn A
+Đông Thạnh 4
+Lý Nam Đế
+Tô Ký
+Xuân Thới Thượng
+Đông Thạnh 4-2
+Lý Thường Kiệt
+Trần Bình Trọng
+Xuân Thới Thượng 15
+Đông Thạnh 5
+Mỹ Huề
+Trần Khắc Chân
+Xuân Thới Thượng 17
+Đông Thạnh 7
+Nam Lân
+Trần Văn Mười
+Xuân Thới Thượng 23
+Dương Công Khi
+Nam Thới 1
+Trịnh Thị Miếng
+Xuân Thới Thượng 24
+Đường số 12
+Nam Thới 2
+Trung Đông 11
+Xuân Thới Thượng 26
+Đường số 14
+Ngô Quyền
+Trung Đông 12
+Xuân Thới Thượng 4
+Đường số 17
+Nguyễn Ảnh Thủ
+Trung Đông 7
+Xuân Thới Thượng 5
+Đường số 2
+Nguyễn Hữu Cầu
+Trung Đông 8
+Xuân Thới Thượng 59
+Đường số 3
+Nguyễn Thị Rành
+Trung Lân 1
+Xuân Thới Thượng 6
+Đường số 5
+Nguyễn Thị Sóc
+Trung Mỹ
+Xuân Thới Thượng 7
+Đường số 6
+Nguyễn Thị Thử
+Trưng Nữ Vương
+Xuân Thới Thượng 8
+Đường số 7
+Nguyễn Văn Bứa
+Trưng Vương 3
+Xuân Thới Thượng 9
+Đường số 8
+Ống Nước
+Tuyến ấp 1
+
