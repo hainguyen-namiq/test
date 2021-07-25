@@ -1,0 +1,204 @@
+version: "2.0"
+nlu:
+- intent: unknown
+  examples: |
+    -  Tao k nhớ.
+    -  tui quen roi
+    -  tao quên rồi
+    -  Em khong nho
+    -  tao không có.
+    -  anh quen roi
+    -  minh chua co
+    -  em không có
+    -  Tui chua co
+    -  minh k nho
+    -  em k có.
+    -  tao không có.
+    -  Chi quên rồi.
+    -  Em k nhớ.
+    -  Tui không có.
+    -  Em quen roi
+    -  tui không có
+    -  tao chua co
+    -  Tao quen roi
+    -  anh chua co
+    -  chị k có.
+    -  tui k có.
+    -  em không nhớ.
+    -  tui chua co
+    -  Tui k nho
+    -  Tui không có.
+    -  tui quen roi
+    -  tao không nhớ.
+    -  Anh chưa có.
+    -  em khong nho
+    -  tao không có.
+    -  Anh k nhớ.
+    -  minh chưa có
+    -  Mình không có.
+    -  tao chua co
+    -  tao k nhớ
+    -  minh khong nho
+    -  Chi quen roi
+    -  chi k nhớ
+    -  Chi k nhớ.
+    -  tui không nhớ.
+    -  minh k nho
+    -  em k nhớ
+    -  Chi k co
+    -  anh quên rồi.
+    -  tui quen roi
+    -  tui khong nho
+    -  anh k nho
+    -  em chưa có.
+    -  Tui không có.
+    -  chị không nhớ.
+    -  anh k có.
+    -  tui quên rồi
+    -  Tao khong co
+    -  Anh chưa có.
+    -  mình chưa có
+    -  em chua co
+    -  tui khong co
+    -  em khong co
+    -  anh chua co
+    -  Tao quên rồi.
+    -  Tao không nhớ.
+    -  em k có.
+    -  tui k nhớ
+    -  anh quen roi
+    -  em không có.
+    -  em quên rồi.
+    -  tao khong nho
+    -  Em k có.
+    -  mình k nhớ
+    -  Tao k nhớ.
+    -  chi khong nho
+    -  tui khong co
+    -  minh quen roi
+    -  minh k nho
+    -  chị chưa có
+    -  Chi không nhớ.
+    -  tao chưa có
+    -  anh k nhớ.
+    -  tui k có
+    -  em không có
+    -  minh chua co
+    -  tao chua co
+    -  chi không nhớ
+    -  anh không có.
+    -  Anh không nhớ.
+    -  Chi k có.
+    -  minh k nhớ.
+    -  em chua co
+    -  tao không có.
+    -  chị quên rồi.
+    -  anh chưa có.
+    -  tao không nhớ
+    -  anh k nhớ.
+    -  minh không có.
+    -  anh không nhớ.
+    -  chi quen roi
+    -  Chi quên rồi.
+    -  em k co
+    -  anh quên rồi.
+    -  quen roi
+    -  k nho
+    -  chưa có.
+    -  khong nho
+    -  khong nho
+    -  khong co
+    -  quên rồi.
+    -  khong co
+    -  khong nho
+    -  chua co
+    -  không nhớ.
+    -  khong co
+    -  khong nho
+    -  chưa có.
+    -  khong co
+    -  k có.
+    -  k nho
+    -  không nhớ.
+    -  không nhớ.
+    -  quên rồi.
+    -  khong co
+    -  không nhớ.
+    -  k có.
+    -  k nhớ.
+    -  k có.
+    -  k co
+    -  k nhớ.
+    -  khong co
+    -  khong nho
+    -  khong nho
+    -  không nhớ
+    -  k nho
+    -  khong nho
+    -  khong co
+    -  khong co
+    -  quên rồi.
+    -  quên rồi
+    -  không nhớ.
+    -  k nhớ.
+    -  khong nho
+    -  không có.
+    -  quên rồi.
+    -  k có
+    -  khong nho
+    -  quen roi
+    -  chua co
+    -  khong nho
+    -  khong nho
+    -  k co
+    -  k nhớ.
+    -  k co
+    -  k có.
+    -  k co
+    -  không có
+    -  không có.
+    -  k nhớ
+    -  không có.
+    -  k nho
+    -  không nhớ.
+    -  k nho
+    -  khong co
+    -  không có.
+    -  không nhớ.
+    -  quen roi
+    -  khong co
+    -  k nhớ
+    -  quên rồi
+    -  không nhớ.
+    -  khong co
+    -  k nhớ.
+    -  k có.
+    -  quên rồi.
+    -  không nhớ
+    -  k nhớ.
+    -  không nhớ.
+    -  k có.
+    -  không nhớ
+    -  chua co
+    -  quen roi
+    -  chưa có
+    -  không nhớ
+    -  quên rồi.
+    -  k có.
+    -  chưa có
+    -  k có.
+    -  k có.
+    -  không nhớ.
+    -  chưa có.
+    -  chua co
+    -  khong nho
+    -  khong co
+    -  không có.
+    -  khong nho
+    -  k nho
+    -  khong nho
+    -  chưa có.
+    -  không có
+    -  không có.
+    -  khong nho
+    -  k nho
